@@ -1,12 +1,12 @@
 {
-    "name": "alfi/task",
+    "name": "alfi/metro-market",
     "description": "This is an assesment project",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Abolfazl Ghaffari",
-            "email": "abolfazl.ghaffari@sarveno.com"
+            "email": "alfi.ghaffari@gmail.com"
         }
     ],
     "autoload": {
