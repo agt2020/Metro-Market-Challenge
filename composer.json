@@ -1,0 +1,21 @@
+{
+    "name": "alfi/task",
+    "description": "This is an assesment project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abolfazl Ghaffari",
+            "email": "abolfazl.ghaffari@sarveno.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^10.3",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
